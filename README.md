@@ -1,5 +1,5 @@
 # Expectiminimax_Backgammon 
-Path finding with Genetic Algorithm
+Backgammon Game using ExpectiMiniMax Algorithm
 <br>
 Report : [15011908.pdf](https://github.com/srknymc/Expectiminimax_Backgammon/blob/master/15011908.pdf)
 <br>
